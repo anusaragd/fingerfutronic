@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MASTERS\\Desktop\\fingerfutronic\\androidHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldpi-v4_icon.png.flat",
+        "source": "C:\\Users\\MASTERS\\Desktop\\fingerfutronic\\androidHelper\\build\\intermediates\\bundles\\debug\\res\\drawable-ldpi-v4\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MASTERS\\Desktop\\fingerfutronic\\androidHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\MASTERS\\Desktop\\fingerfutronic\\androidHelper\\build\\intermediates\\bundles\\debug\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MASTERS\\Desktop\\fingerfutronic\\androidHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_icon.png.flat",
+        "source": "C:\\Users\\MASTERS\\Desktop\\fingerfutronic\\androidHelper\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\MASTERS\\Desktop\\fingerfutronic\\androidHelper\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_icon.png.flat",
+        "source": "C:\\Users\\MASTERS\\Desktop\\fingerfutronic\\androidHelper\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon.png"
+    }
+]

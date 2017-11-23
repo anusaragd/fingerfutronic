@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 12
+    buildToolsVersion "26.0.2"
+
+    defaultConfig {
+        minSdkVersion 12
+        targetSdkVersion 12
+
+        ndk {
+            moduleName "Prebuild_usb1.0"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
