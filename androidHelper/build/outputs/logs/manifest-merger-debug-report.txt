@@ -42,6 +42,6 @@ INJECTED from C:\Users\MASTERS\Desktop\fingerfutronic\androidHelper\src\main\And
 application
 ADDED from C:\Users\MASTERS\Desktop\fingerfutronic\androidHelper\src\main\AndroidManifest.xml:11:5-14:19
 	android:label
-		ADDED from C:\Users\MASTERS\Desktop\fingerfutronic\androidHelper\src\main\AndroidManifest.xml:11:48-80
+		ADDED from C:\Users\MASTERS\Desktop\fingerfutronic\androidHelper\src\main\AndroidManifest.xml:11:53-85
 	android:icon
-		ADDED from C:\Users\MASTERS\Desktop\fingerfutronic\androidHelper\src\main\AndroidManifest.xml:11:18-47
+		ADDED from C:\Users\MASTERS\Desktop\fingerfutronic\androidHelper\src\main\AndroidManifest.xml:11:18-52

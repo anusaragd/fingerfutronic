@@ -1,5 +1,4 @@
 apply plugin: 'com.android.library'
-
 android {
     compileSdkVersion 12
     buildToolsVersion "26.0.2"
@@ -19,4 +18,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
 }
